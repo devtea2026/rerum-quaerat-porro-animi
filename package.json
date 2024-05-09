@@ -1,6 +1,6 @@
 {
   "name": "@devtea2026/rerum-quaerat-porro-animi",
-  "version": "1.1.7",
+  "version": "1.1.8",
   "description": " ",
   "main": "index.js",
   "author": "Antwii1",
@@ -139,5 +139,5 @@
   "bugs": {
     "url": "https://github.com/devtea2026/rerum-quaerat-porro-animi/issues"
   },
-  "packageManager": "yarn@4.2.1"
+  "packageManager": "yarn@4.2.2"
 }
